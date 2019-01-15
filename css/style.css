@@ -1,5 +1,11 @@
+body {
+    
+}
+
 h1 {
     text-align: center;
+    color: #05FE69;
+    font-family: script;
 }
 
 #cart {
@@ -12,6 +18,7 @@ h1 {
 .column {
     width: 18%;
     padding: 25px 0px;
+    
 }
 
 #images img {
